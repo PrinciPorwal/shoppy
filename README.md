@@ -19,13 +19,13 @@ Some of the key features of this pages are-
 3. Delete or Edit them.
 
 ### Orders
-![alt text](https://github.com/PrinciPorwal/Admin-Dashboard/blob/main/Pages/Screenshot%20(14).png)
+![alt text](https://github.com/PrinciPorwal/shoppy/blob/master/Pages/Screenshot%20(14).png)
 
 ### Employees
-![alt text](https://github.com/PrinciPorwal/Admin-Dashboard/blob/main/Pages/Screenshot%20(15).png)
+![alt text](https://github.com/PrinciPorwal/shoppy/blob/master/Pages/Screenshot%20(15).png)
 
 ### Orders
-![alt text](https://github.com/PrinciPorwal/Admin-Dashboard/blob/main/Pages/Screenshot%20(16).png)
+![alt text](https://github.com/PrinciPorwal/shoppy/blob/master/Pages/Screenshot%20(16).png)
 
 
 
