@@ -8,7 +8,7 @@ Tool and Technologies- HTML, CSS, React JS
 
 ## Homepage
 It opens upto a E-commerce pages, which displays 
-![alt text](https://github.com/PrinciPorwal/Admin-Dashboard/blob/main/Pages/Screenshot%20(28).png)
+![alt text](https://github.com/PrinciPorwal/shoppy/blob/master/Pages/Screenshot%20(28).png)
 
 
 ## Pages Section
